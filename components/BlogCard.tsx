@@ -66,7 +66,7 @@ const BlogCard = () => {
           </TouchableOpacity>
           <TouchableOpacity
             onPress={() =>
-              openWebsite('https://www.instagram.com/hiteshchoudharyofficial/')
+              openWebsite('https://www.instagram.com/ankit.d.trital/')
             }>
             <Text style={socialLinks}>Follow me</Text>
           </TouchableOpacity>
