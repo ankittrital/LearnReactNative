@@ -1,5 +1,6 @@
 import React from 'react';
-import PasswordGenerator from './src/PasswordGenerator/PasswordGenerator';
+// import PasswordGenerator from './src/PasswordGenerator/PasswordGenerator';
+import AppBgColorChanger from './src/AppBackgroundColor/AppBgColorChanger';
 
 /**
  * @author   Ankit D Trital
@@ -7,7 +8,8 @@ import PasswordGenerator from './src/PasswordGenerator/PasswordGenerator';
  **/
 
 const Projects = () => {
-  return <PasswordGenerator />;
+  // return <PasswordGenerator />;
+  return <AppBgColorChanger />;
 };
 
 export default Projects;
